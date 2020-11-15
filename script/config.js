@@ -28,11 +28,18 @@ window.dataForCV = {
     expertise:'Expertise',
     education:'Education',
     html:'HTML',
+    empty: 'fill',
+    htmlPun: 'fill-percent',
     css:'CSS',
+    cssPun:'fill-percent',
     javaS:'Java Script',
+    javasPun:'fill-percent2',
     reactJs:'React.js',
+    reactJsPun:'fill-percent3',
     language:'English',
+    languagePun:'fill-percent4',
     language2:'Germany',
+    language2P:'fill-percent5',
     start: '2013-2017',
     school: 'JUSGGŠINŽ."Marko Radevic"',
     start2: '2017-Present',
@@ -60,19 +67,5 @@ window.dataForCV = {
     start4: '2020-Present',
     company2: 'Respect Security',
     jobTitle3: 'Web Developer',
-    description3: 'Odjeljenje za tehnicku podrsku. Organizacija posla.',
-    skills: [{
-        name: 'HTML',
-        percent: '50'
-    },{
-        name: 'CSS',
-        percent: '50'
-    },{
-        name: 'Javascript',
-        percent: '25'
-    }
-    ,{
-        name: 'React,js',
-        percent: '25'
-    }]
+    description3: 'Odjeljenje za tehnicku podrsku. Organizacija posla.'
 }
